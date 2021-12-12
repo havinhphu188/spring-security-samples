@@ -25,14 +25,14 @@ spring:
             scope: openid,profile
             client-name: Spring
           google:
-            client-id: your-app-client-id
-            client-secret: your-app-client-secret
+            client-id: 1072370402495-th1jqpr5u195jmeibaoep09giapnqkq3.apps.googleusercontent.com
+            client-secret: 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
           github:
-            client-id: your-app-client-id
-            client-secret: your-app-client-secret
+            client-id: bf0e5e42d69fc61d27f2
+            client-secret: 4cae55ba3c9cff31b0733111c0aa85bb4ca75e73
           facebook:
-            client-id: your-app-client-id
-            client-secret: your-app-client-secret
+            client-id: 1575024006175102
+            client-secret: 6d26d49d27eaee0bb658742c849159ee
           okta:
             client-id: your-app-client-id
             client-secret: your-app-client-secret
